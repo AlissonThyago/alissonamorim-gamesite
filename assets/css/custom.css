@@ -1,0 +1,38 @@
+/* PLACE YOU CUSTOM STYLES IN THIS FILE */
+.fa-artstation {
+	width: 1.2em;
+	vertical-align: sub;
+	fill: #171e22;
+}
+.fa-artstation:hover {
+  fill: #fff;
+}
+.game-play{
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	height: 45em;
+	width: 100%;
+	margin: auto;
+}
+.align-img {
+	text-align: center;
+}
+.none {
+	color: transparent;
+	text-decoration: none;
+}
+.none:hover {
+    color: transparent;
+}
+.fk-m {
+	/*padding: 28px;*/
+	width: 100%;
+}
+.auto-margim {
+	margin: auto;
+	text-align: center;
+}
+.svg {
+	width: 100%;
+}
